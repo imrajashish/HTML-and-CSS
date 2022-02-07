@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.para{
+//	background-color: lightblue;
+	text-align: center;
+	margin: 10px;
+	padding-top: 10px;
+	clear: left;
+	background-image: url('../Phinex.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
