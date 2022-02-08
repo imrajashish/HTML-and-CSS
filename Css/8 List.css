@@ -1,7 +1,11 @@
-ul{
-	list-style-type: square;
-	letter-spacing: 2px;
+.para{
+	width: 400px;
+	padding-top: 10px;
+	padding-left: 30px 20px 1px 10px;
+	color: lightblue;
+
 }
-ol{
-	list-style-position: upper-alpha;
+input{
+	margin: 20px;
+	padding: 10px;
 }
