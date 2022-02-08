@@ -1,0 +1,9 @@
+p{
+	width: 150px;
+	height: 140px;
+	border: 1px solid red;
+/*	overflow: hidden hidden scrool auto; */
+	overflow: scroll;
+	margin-left: 10em;
+
+}
