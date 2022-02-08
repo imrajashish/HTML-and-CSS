@@ -1,0 +1,20 @@
+.header{
+	width: 70%;
+	height: 30%;
+	background-color: red;
+}
+.logo{
+	width: 30%;
+	line-height: 80px;
+	text-align: center;
+	background-color: hotpink;
+	float: left;
+
+}
+.menu{
+	idth: 30%;
+	line-height: 80px;
+	text-align: center;
+	background-color: orange;
+	float: right;
+}
